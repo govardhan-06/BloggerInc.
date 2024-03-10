@@ -1,0 +1,108 @@
+.modal-content{
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    height: 70vh;
+}
+.home-content{
+    padding-top: 0rem !important;
+    padding-bottom: 2rem !important;
+}
+.create_post, .edit-view{
+    display: flex;
+    height: 100vh;
+}
+
+.create_user_dev{
+    padding-right: 3rem;
+}
+
+.card{
+    display: flex;
+    margin: 1rem;
+
+}
+
+.home-img{
+    display: flex;
+    justify-content: center;
+    margin: 1rem;
+    width: auto;
+}
+
+.website-title{
+    margin-bottom: 0.25rem;
+}
+.view-post-title, .edit-post-title{
+    text-align: center;
+}
+
+.card-header, .card-body{
+    text-align: start;
+}
+
+.edit-selection, .del-selection{
+    display: flex;
+    justify-content: end;
+    margin-right: 1rem;
+    margin-bottom: 0.5rem;
+}
+
+.edit-view-submit{
+    display: flex;
+    justify-content: end;
+}
+.edit_post_content{
+    width:30rem;
+}
+.del-post{
+    padding-left: 0;
+    padding-top: 0;
+}
+.edit-view-titles{
+    display:flex;
+    justify-content: space-evenly;
+}
+html,body{
+    width:100%;
+    height:100%;
+    margin:0;
+    padding:0;
+}
+body{
+    position:relative;
+  }
+header{
+    top:0;
+    left:0;
+    width:100%;
+  }
+
+footer{
+    position:fixed;
+    text-align: center;
+    height:50px;
+    bottom:0;
+    left:0;
+    width:100%;
+  }
+
+.clear{
+    height: 60px;
+}
+.home-tap{
+    padding: 0px; 
+  }
+.animationContainer{
+    width: 300px; 
+    height: 300px;
+}
+.message-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.no_content{
+    text-align: center;
+    padding: 1rem;
+}
