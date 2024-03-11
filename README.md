@@ -18,7 +18,7 @@ npm i
 ## Usage
 
 Once you have installed the dependencies, you can start the development server by running:
-ng serve
+nodemon index.js
 
 This command will compile the project and start a development server. You can then access the application by navigating to "http://localhost:3000" in your web browser.
 
