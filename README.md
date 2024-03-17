@@ -7,10 +7,10 @@ BloggerInc is a blog writing website that enables users to create, edit, delete,
 To run this project locally, follow these steps:
 
 1. Clone the repository to your local machine:
-https://github.com/govardhan-06/BloggerInc..git
+gh repo clone govardhan-06/BloggerInc.
 
 2. Navigate to the project directory:
-cd BloggerInc
+cd BloggerInc.
 
 4. Install the required dependencies by running:
 npm i
